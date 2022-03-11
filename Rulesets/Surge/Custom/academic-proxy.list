@@ -6,3 +6,6 @@ DOMAIN,ees.elsevier.com
 
 ## 告别出版商绑架
 DOMAIN-KEYWORD,sci-hub
+
+## ssh server
+USER-AGENT,ssh*
