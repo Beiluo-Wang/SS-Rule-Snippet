@@ -8,4 +8,4 @@ DOMAIN,ees.elsevier.com
 DOMAIN-KEYWORD,sci-hub
 
 ## ssh server
-USER-AGENT,ssh*
+PROCESS-NAME,/usr/bin/ssh
