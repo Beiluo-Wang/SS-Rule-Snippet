@@ -27,7 +27,7 @@ DOMAIN-SUFFIX,sciencemag.org
 DOMAIN-SUFFIX,osapublishing.org
 DOMAIN-SUFFIX,clarivate.com,DIRECT
 DOMAIN-SUFFIX,webofscience.com,DIRECT
-
+DOMAIN-SUFFIX,webofknowledge.com,DIRECT
 ## Willey 旗下
 DOMAIN-SUFFIX,wiley.com
 DOMAIN-KEYWORD,readcube
