@@ -25,9 +25,9 @@ DOMAIN-SUFFIX,ieee.org
 DOMAIN-SUFFIX,nature.com
 DOMAIN-SUFFIX,sciencemag.org
 DOMAIN-SUFFIX,osapublishing.org
-DOMAIN-SUFFIX,clarivate.com,DIRECT
-DOMAIN-SUFFIX,webofscience.com,DIRECT
-DOMAIN-SUFFIX,webofknowledge.com,DIRECT
+DOMAIN-SUFFIX,clarivate.com
+DOMAIN-SUFFIX,webofscience.com
+DOMAIN-SUFFIX,webofknowledge.com
 ## Willey 旗下
 DOMAIN-SUFFIX,wiley.com
 DOMAIN-KEYWORD,readcube
@@ -50,3 +50,6 @@ DOMAIN-SUFFIX,acm.org
 
 ## JSTOR 旗下
 DOMAIN-SUFFIX,jstor.org
+
+## 投稿
+DOMAIN-SUFFIX,edas.info
